@@ -1,0 +1,1 @@
+public delegate void CardAddedEventHandler(object sender, CardEventArgs e);

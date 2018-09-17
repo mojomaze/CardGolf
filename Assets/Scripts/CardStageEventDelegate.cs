@@ -1,0 +1,1 @@
+public delegate void CardStageEventHandler(object sender, CardStageEventArgs e);

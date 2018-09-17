@@ -1,0 +1,1 @@
+public delegate void CardMoveToStackEventHandler(object sender, CardMoveToStackEventArgs e);
